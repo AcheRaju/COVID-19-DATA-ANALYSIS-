@@ -1,1 +1,1 @@
-This project is about the analysis of Covid-19 data using Python libraries such as Pandas, Matplotlib, and Seaborn. The project aimed to gain hands-on experience in data analysis, visualization, and exploring trends in Covid-19 cases.
+
